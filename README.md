@@ -15,14 +15,12 @@
 ## Connect with me:
 <p align="left">
 <a href="https://leetcode.com/u/Subodh_2482020/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-
 <a href="https://www.linkedin.com/in/subodh-kumar-510589259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://www.instagram.com/subodhkumar2732?igsh=MThvazY5dHBhOHU4aA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 
 </p>
 
                                                                                                    |
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subodhkumar2732&theme=onedark&layout=compact) |
 
 
 
