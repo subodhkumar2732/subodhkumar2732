@@ -1,7 +1,7 @@
 <h1 align="center"> subodh kumar</h1>
 <h4 align="center">passionate about coding, learning new technologies, and building real-workd projects</h4>
 
-![GitHub Views](https://komarev.com/ghpvc/?username=alwaysomesh&color=red)
+![GitHub Views](https://komarev.com/ghpvc/?username=subodhkumar2732&color=red)
 
 ## About Me:
 
@@ -22,8 +22,7 @@
 </p>
 
                                                                                                    |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subodhkumar2732&theme=onedark&layout=compact) |
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subodhkumar2732&theme=onedark&layout=compact) |
 
 
 
